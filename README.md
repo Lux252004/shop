@@ -56,23 +56,6 @@ server.js: Contains the backend Node.js server logic.
 App.js: Contains the main React.js code for handling product display and cart management.
 package.json: Contains project metadata and dependencies for both the frontend and backend.
 
-# Project Screenshots
-
-Shopping Cart Overview
-
-![Screenshot (26)](https://github.com/user-attachments/assets/4a4d457b-a7b3-4cb9-938e-bab374bf1b44)
-
-Adding the Item
-
-![Screenshot (27)](https://github.com/user-attachments/assets/5d67462f-660a-4837-8645-648a4713dbc3)
-
-Updating the item quantity
-
-![Screenshot (28)](https://github.com/user-attachments/assets/c35a7d9a-5011-4fd8-a9ab-b5f689256c8a)
-
-Deleting the items 
-
-![Screenshot (29)](https://github.com/user-attachments/assets/e9878667-88d9-488c-a896-55f798182962)
 
 # License
 This project is open-source and available under the MIT License.
